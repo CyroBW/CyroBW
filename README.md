@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💻 works as a scientist
+- 😄 loves machine learning and coding
+- 🌱 learning agile thinking
