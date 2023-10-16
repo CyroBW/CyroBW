@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💻 works as a scientist
-- 😄 loves machine learning and coding
+- 💻 working as a scientist
+- 😄 love machine learning and coding
 - 🌱 learning agile thinking
