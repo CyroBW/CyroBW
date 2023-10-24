@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 💻 working as a scientist
 - 😄 love machine learning and coding
-- 🌱 learning agile thinking
+- 🌱 learning DevOps
